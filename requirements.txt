@@ -6,3 +6,4 @@ langchain-core
 langchain-groq
 faiss-cpu
 beautifulsoup4
+huggingface_hub
