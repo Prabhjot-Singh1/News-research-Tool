@@ -1,4 +1,4 @@
-# RockyBot: News Research Tool 📈
+#  News Research Tool 📈
 
 RockyBot is a beginner-friendly Retrieval-Augmented Generation (RAG) web application. It allows you to input news article URLs, process their content, and ask questions based strictly on the extracted information. 
 
